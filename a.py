@@ -1,4 +1,4 @@
-a=20
-b=30
+a=int(input("Enter the first number : "))
+b=int(input("Enter the second number : "))
 c=a+b
-print(c)
+print("Sum : ",c)
